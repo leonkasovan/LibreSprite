@@ -61,6 +61,10 @@ Fedora:
 
     sudo dnf install g++ cmake libcurl-devel freetype-devel giflib-devel gtest-devel libjpeg-devel pixman-devel libpng-devel SDL2-devel SDL2_image-devel tinyxml2-devel zlib-devel ninja-build nodejs-devel libarchive-devel
 
+Raspberry Os:
+
+    sudo apt install cmake g++ libfreetype6-dev libgif-dev libgtest-dev libjpeg-dev libpixman-1-dev libpng-dev libtinyxml-dev libx11-dev libxcursor-dev ninja-build zlib1g-dev libarchive-dev libsdl2-image-dev libtinyxml2-dev
+
 ### Windows dependencies
 
 To install the required dependencies with msys2, run the following in mingw32:
